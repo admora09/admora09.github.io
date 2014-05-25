@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "avenida 2", "Descriptio": "", "id": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ -83.916662, 9.863270 ], [ -83.922953, 9.864151 ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "avenida central", "Descriptio": "", "id": 2 }, "geometry": { "type": "LineString", "coordinates": [ [ -83.922844, 9.865021 ], [ -83.916568, 9.864121 ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "avenida 1", "Descriptio": "", "id": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ -83.922743, 9.865833 ], [ -83.916461, 9.864967 ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "avenida 4", "Descriptio": "", "id": 4 }, "geometry": { "type": "LineString", "coordinates": [ [ -83.923058, 9.863323 ], [ -83.916792, 9.862477 ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "avenida 3", "Descriptio": "", "id": 5 }, "geometry": { "type": "LineString", "coordinates": [ [ -83.922614, 9.866711 ], [ -83.916352, 9.865798 ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "calle central", "Descriptio": "", "id": 6 }, "geometry": { "type": "LineString", "coordinates": [ [ -83.920571, 9.862130 ], [ -83.919949, 9.866699 ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "calle 2", "Descriptio": "", "id": 7 }, "geometry": { "type": "LineString", "coordinates": [ [ -83.921435, 9.862262 ], [ -83.920822, 9.866896 ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "calle 4", "Descriptio": "", "id": 8 }, "geometry": { "type": "LineString", "coordinates": [ [ -83.921689, 9.867072 ], [ -83.922271, 9.862397 ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "calle 1", "Descriptio": "", "id": 9 }, "geometry": { "type": "LineString", "coordinates": [ [ -83.919710, 9.861978 ], [ -83.919100, 9.866612 ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "calle 3", "Descriptio": "", "id": 10 }, "geometry": { "type": "LineString", "coordinates": [ [ -83.918859, 9.861861 ], [ -83.918228, 9.866469 ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "calle 5", "Descriptio": "", "id": 11 }, "geometry": { "type": "LineString", "coordinates": [ [ -83.917909, 9.861761 ], [ -83.917358, 9.866313 ] ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Rio", "Descriptio": "", "id": 12 }, "geometry": { "type": "LineString", "coordinates": [ [ -83.920115, 9.866636 ], [ -83.919296, 9.866061 ], [ -83.919505, 9.864563 ], [ -83.919279, 9.863100 ], [ -83.918843, 9.862403 ], [ -83.918843, 9.862403 ] ] } }
+
+]
+}
