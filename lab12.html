@@ -59,15 +59,15 @@
 				return L.marker(latlng, {icon: redMarker});
 			};
 			var xhr = new XMLHttpRequest() || new ActiveXObject("Msxml2.XMLHTTP") || new ActiveXObject("Microsoft.XMLHTTP");
-			xhr.open("GET","restaurantes.geojson",false); xhr.send(null);
+			xhr.open("GET","restaurantes2.geojson",false); xhr.send(null);
 			var restaurantes = JSON.parse(xhr.responseText);
-			xhr.open("GET","calles.geojson",false); xhr.send(null);
+			xhr.open("GET","calles2.geojson",false); xhr.send(null);
 			var calles = JSON.parse(xhr.responseText);
-			xhr.open("GET","avenidas.geojson",false); xhr.send(null);
+			xhr.open("GET","avenidas2.geojson",false); xhr.send(null);
 			var avenidas = JSON.parse(xhr.responseText);
-			xhr.open("GET","rios.geojson",false); xhr.send(null);
+			xhr.open("GET","rios2.geojson",false); xhr.send(null);
 			var rios = JSON.parse(xhr.responseText);
-			xhr.open("GET","poligonos.geojson",false); xhr.send(null);
+			xhr.open("GET","poligonos2.geojson",false); xhr.send(null);
 			var poligonos = JSON.parse(xhr.responseText);
 			var styleCalles = {
 				"color": "#999999",

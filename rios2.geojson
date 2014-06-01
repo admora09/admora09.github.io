@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Rio Trinidad" }, "geometry": { "type": "LineString", "coordinates": [ [ -83.920114, 9.866634 ], [ -83.919289, 9.866056 ], [ -83.919509, 9.864544 ], [ -83.919275, 9.863086 ], [ -83.918835, 9.862399 ], [ -83.918835, 9.862399 ] ] } }
+
+]
+}
